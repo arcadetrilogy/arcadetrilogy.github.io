@@ -1,2 +1,2 @@
-# fan-trilogy.github.io
+# fantrilogy.github.io
 Fant WebSite
