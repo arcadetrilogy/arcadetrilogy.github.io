@@ -1,2 +1,2 @@
-# fantrilogy.github.io
+# arcadetrilogy.github.io
 Fant WebSite
