@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 25px;
+    color: black;
+}
+
+#header-page-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(81, 84, 255);
+    text-align: center;
+    border-width: 1px;
+}
+
+#p-title {
+    position: absolute;
+    top: -7px;
+    left: 5%;
+    color: rgb(2, 2, 2);
+    font-size: 20px;
+    text-shadow: -3px 0 2px white;
+    font-weight: 800;
+}
+
+#welc-p {
+
+    display: block;
+    top: 90px;
+    text-align: center;
+    text-decoration: dashed;
+
+    font-size: 20px;
+
+}
+
+table {
+    position: relative;
+    left: 30%;
+    width: 500px;
+    height: 20px;
+    background-color: rgb(107, 168, 168);
+    float: left;
+
+}
+
+#items {
+    width: 50%;
+    height: 50px;
+    background-color: rgb(231, 231, 255);
+    text-align: center;
+    font-size: 15px;
+}
+
+a{
+    color: blueviolet;
+}
+
+[href="#"]{
+    color: black;
+}
